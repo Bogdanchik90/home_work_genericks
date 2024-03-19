@@ -1,6 +1,5 @@
 import com.bogdan.demo.Apple;
 import com.bogdan.demo.Box;
-import com.bogdan.demo.Fruit;
 import com.bogdan.demo.Orange;
 
 public class Main {
